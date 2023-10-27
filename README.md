@@ -4,6 +4,6 @@ $ git clone https://github.com/4gwd/DDOS_IRAQ
 
 $ cd DDOS_IRAQ
 
-$ pip install -r offices.txt
+$ pip install -r requirements.txt
 
 $ python DDOS_IRAQ.py
