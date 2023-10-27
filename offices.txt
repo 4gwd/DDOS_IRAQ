@@ -1,0 +1,9 @@
+requests
+colorama
+r
+os
+threading
+random
+click
+fake_headers
+time
