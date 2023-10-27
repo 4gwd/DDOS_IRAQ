@@ -1,6 +1,5 @@
 requests
 colorama
-r
 os
 threading
 random
