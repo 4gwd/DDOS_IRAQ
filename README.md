@@ -20,4 +20,6 @@ $ pip install fake_headers
 
 $ pip install time
 
+$ pip install pyfiglet
+
 $ python DDOS_IRAQ.py
